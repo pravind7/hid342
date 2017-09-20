@@ -8,9 +8,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 342
+    name: Udoyen, Nsikan
+    url: https://github.com/bigdata-i523/hid342
 ```
 
 # Paper 1
