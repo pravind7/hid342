@@ -1,4 +1,5 @@
 # hid342
+
 # Comments
 
 * Mind the ```quotes and do not forget them```
@@ -18,16 +19,13 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Udoyen, Nsikan
    hid:
-   - 000
-   - 001
+   - 342
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
-   
    status: in progress
  ```
    
