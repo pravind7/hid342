@@ -10,6 +10,7 @@
 # Practice
 
 * Week ending 09/15/17: Read Section 4.1 (Linux Shell)
+* Week ending 09/22/17: Installed VM VirtualBox, Ubuntu
 
 # Writing
 
